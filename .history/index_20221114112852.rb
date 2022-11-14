@@ -4,6 +4,7 @@ puts "なおき"
 print "hello world"
 # 数当てゲーム
 
-answer = rand(100) + 1
+answer = rand(100) ＋ 1
 count = 0
-puts answer
+
+loop do

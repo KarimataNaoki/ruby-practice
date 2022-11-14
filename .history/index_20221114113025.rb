@@ -6,4 +6,5 @@ print "hello world"
 
 answer = rand(100) + 1
 count = 0
-puts answer
+
+loop do
